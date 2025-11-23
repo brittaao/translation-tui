@@ -45,12 +45,6 @@ Run the application:
 go run .
 ```
 
-Or build and run:
-```bash
-go build -o myapp
-go run .
-```
-
 ## Supported Languages
 
 Possibly any, but I restricted them to the ones that currently where interesting to me.
